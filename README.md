@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ZITOUNI%20RANIA&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer%20%7C%20Systems%20%26%20Infrastructure&descAlignY=58&descSize=18" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=538BF7&center=true&vCenter=true&width=600&lines=ZITOUNI+RANIA" alt="name" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=538BF7&center=true&vCenter=true&width=550&lines=4th-year+CS+%40+ESI+Algiers+%F0%9F%8E%93;Fullstack+%26+Mobile+Developer+%F0%9F%9A%80;CUDA+%7C+HPC+%7C+Network+Infrastructure+%F0%9F%94%A7;Part-time+%40+FoorWeb+%F0%9F%9B%92" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Fullstack+%26+Mobile+Developer+%7C+Systems+%26+Infrastructure" alt="role" />
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&labelColor=538BF7&color=0D1117)](https://my-portfolio-beta-five-70.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0D1117?style=for-the-badge&labelColor=0A66C2&color=0D1117)](https://www.linkedin.com/in/rania-zitouni)
-[![Kaggle](https://img.shields.io/badge/📊%20Kaggle-0D1117?style=for-the-badge&labelColor=20BEFF&color=0D1117)](https://www.kaggle.com/zitounirania)
 [![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&labelColor=D14836&color=0D1117)](mailto:mr_zitouni@esi.dz)
 
 </div>
@@ -77,31 +74,6 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
-##  GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raniazitouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=538BF7&icon_color=538BF7&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raniazitouni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=538BF7&text_color=FFFFFF&langs_count=8" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=raniazitouni&theme=tokyonight&hide_border=true&background=0D1117&stroke=538BF7&ring=538BF7&fire=FF6B6B&currStreakLabel=538BF7&sideLabels=538BF7&dates=FFFFFF" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raniazitouni&custom_title=Contribution%20Graph&bg_color=0D1117&color=538BF7&line=538BF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=raniazitouni&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -129,9 +101,6 @@ interests:
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=raniazitouni&color=538BF7&style=for-the-badge&label=PROFILE+VIEWS)
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=fff&animation=twinkling" width="100%" />
