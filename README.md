@@ -1,16 +1,139 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**raniazitouni/raniazitouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ZITOUNI%20RANIA&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer%20%7C%20Systems%20%26%20Infrastructure&descAlignY=58&descSize=18" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=538BF7&center=true&vCenter=true&width=550&lines=4th-year+CS+%40+ESI+Algiers+%F0%9F%8E%93;Fullstack+%26+Mobile+Developer+%F0%9F%9A%80;CUDA+%7C+HPC+%7C+Network+Infrastructure+%F0%9F%94%A7;Part-time+%40+FoorWeb+%F0%9F%9B%92" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&labelColor=538BF7&color=0D1117)](https://my-portfolio-beta-five-70.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0D1117?style=for-the-badge&labelColor=0A66C2&color=0D1117)](https://www.linkedin.com/in/rania-zitouni)
+[![Kaggle](https://img.shields.io/badge/📊%20Kaggle-0D1117?style=for-the-badge&labelColor=20BEFF&color=0D1117)](https://www.kaggle.com/zitounirania)
+[![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&labelColor=D14836&color=0D1117)](mailto:mr_zitouni@esi.dz)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## About Me
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="coding gif" />
+
+</td>
+<td width="60%" valign="top">
+
+```yaml
+name:       Zitouni Rania
+role:       Fullstack & Mobile Developer
+university: ESI Algiers — 4th year CS
+location:   Algiers, Algeria 🇩🇿
+part_time:  FoorWeb (e-commerce platform)
+interests:
+  - Full-stack web & mobile development
+  - GPU & parallel computing
+  - Network infrastructure & automation
+  - Combinatorial optimization
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,flutter,dart" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,c" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+
+### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,ansible,postman" />
+
+### Networking & Systems
+`BGP` • `EVPN/VXLAN` • `ContainerLab` • `FRR` • `Arista EOS` • `GNS3` • `Cisco IOS`
+
+### 🔬 Data & HPC
+`CUDA` • `OpenMP` • `MPI` • `Pthreads` • `R` • `FactoMineR` • `Pandas` • `NetworkX`
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+##  GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raniazitouni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=538BF7&icon_color=538BF7&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raniazitouni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=538BF7&text_color=FFFFFF&langs_count=8" height="180" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=raniazitouni&theme=tokyonight&hide_border=true&background=0D1117&stroke=538BF7&ring=538BF7&fire=FF6B6B&currStreakLabel=538BF7&sideLabels=538BF7&dates=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raniazitouni&custom_title=Contribution%20Graph&bg_color=0D1117&color=538BF7&line=538BF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=raniazitouni&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## Private Work
+
+### FoorWeb *(part-time — private org repo)*
+> React · Node.js · Flutter · Firebase · E-commerce platform
+
+- Sawa9ly affiliate API integration via Firebase Cloud Functions — order status trigger (20→1) auto-pushes orders with product mapping to Sawa9ly API
+- Delivery tracking for 5 Algerian providers: Yalidine, Gupex, Maystro, ZR Express, DHD Ecotrack
+- Workers management system — permissions, email invite (Nodemailer + Firebase Auth), team management UI
+- Call recording in Flutter — Android accessibility service, audio upload to Octopus server, Android 15 + Samsung compatibility
+- Payment on delivery logic · multi-account login · store owner printer integration
+
+### ESI Data Center Redesign *(team project — private org repo)*
+> Spine-Leaf Clos fabric · EVPN/VXLAN · eBGP underlay · 5-VRF macro-segmentation
+
+- **My role:** QoS strategy (8-class DiffServ, DSCP preservation across VXLAN, ECN/PFC scoped to Ultra Compute Pod)
+- ContainerLab simulation of NTP (Chrony), DNS (BIND9), DHCP (Kea ISC), Zabbix monitoring
+- Ansible automation for Arista EOS device configuration *(in progress)*
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=raniazitouni&color=538BF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=fff&animation=twinkling" width="100%" />
+
+</div>
