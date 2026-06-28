@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&labelColor=538BF7&color=0D1117)](https://my-portfolio-beta-five-70.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0D1117?style=for-the-badge&labelColor=0A66C2&color=0D1117)](https://www.linkedin.com/in/rania-zitouni)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0D1117?style=for-the-badge&labelColor=0A66C2&color=0D1117)](https://www.linkedin.com/in/zitouni-rania-b36b92260/)
 [![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&labelColor=D14836&color=0D1117)](mailto:mr_zitouni@esi.dz)
 
 </div>
