@@ -86,10 +86,22 @@ interests:
 - ContainerLab simulation of NTP (Chrony), DNS (BIND9), DHCP (Kea ISC), Zabbix monitoring
 - Ansible automation for Arista EOS device configuration *(in progress)*
 
-### ESIBot — ROS 2 Autonomous Robot *(collaborator — teammate's repo)*
-ROS 2 Jazzy · Gazebo · SLAM Toolbox · Nav2 · Raspberry Pi 4 · ESP32-CAM  
-**My contributions:** [describe what you specifically worked on]  
-🔗 [Repository](https://github.com/amine-kherroubi/esibot-ros2)
+### EsiBot — Autonomous Differential Mobile Robot *(team leader)*
+ROS 2 Jazzy · Gazebo · SLAM Toolbox · Nav2 · Raspberry Pi 4 · ESP32-CAM · React
+
+A low-cost autonomous robot built as a TurtleBot3-class alternative using commodity IoT
+components. The platform replaces the TurtleBot3's LiDAR and proprietary microcontroller
+with a rotating ultrasonic radar (HC-SR04 + MG996R servo) 
+
+The full stack covers: 3D-printed PLA differential-drive chassis, Raspberry Pi 4 as the
+onboard computer (GPIO motor control, encoder odometry, sensor interfacing), ESP32-CAM
+for wireless MJPEG streaming, online SLAM over a 3m×3m area at 5cm/pixel resolution,
+autonomous point-to-point navigation with dynamic obstacle avoidance, a YOLOv8 computer
+vision pipeline (lane detection, obstacle proximity, traffic sign recognition), and a
+React web dashboard accessible from any device on the local Wi-Fi network.
+
+[Repository](https://github.com/amine-kherroubi/esibot-ros2)
+[Project Report](https://drive.google.com/file/d/1NEzeJUB9FuoJoeLUQWkzqKIg__Q9s5V5/view?usp=drive_link)
 
 
 ### FoorWeb *(part-time — private org repo)*
