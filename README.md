@@ -77,7 +77,20 @@ interests:
 
 ---
 
-## Private Work
+## PROJECTS
+
+### ESI Data Center Redesign *(team project — private org repo)*
+> Spine-Leaf Clos fabric · EVPN/VXLAN · eBGP underlay · 5-VRF macro-segmentation
+
+- **My role:** QoS strategy (8-class DiffServ, DSCP preservation across VXLAN, ECN/PFC scoped to Ultra Compute Pod)
+- ContainerLab simulation of NTP (Chrony), DNS (BIND9), DHCP (Kea ISC), Zabbix monitoring
+- Ansible automation for Arista EOS device configuration *(in progress)*
+
+### ESIBot — ROS 2 Autonomous Robot *(collaborator — teammate's repo)*
+ROS 2 Jazzy · Gazebo · SLAM Toolbox · Nav2 · Raspberry Pi 4 · ESP32-CAM  
+**My contributions:** [describe what you specifically worked on]  
+🔗 [Repository](https://github.com/amine-kherroubi/esibot-ros2)
+
 
 ### FoorWeb *(part-time — private org repo)*
 > React · Node.js · Flutter · Firebase · E-commerce platform
@@ -88,12 +101,6 @@ interests:
 - Call recording in Flutter — Android accessibility service, audio upload to Octopus server, Android 15 + Samsung compatibility
 - Payment on delivery logic · multi-account login · store owner printer integration
 
-### ESI Data Center Redesign *(team project — private org repo)*
-> Spine-Leaf Clos fabric · EVPN/VXLAN · eBGP underlay · 5-VRF macro-segmentation
-
-- **My role:** QoS strategy (8-class DiffServ, DSCP preservation across VXLAN, ECN/PFC scoped to Ultra Compute Pod)
-- ContainerLab simulation of NTP (Chrony), DNS (BIND9), DHCP (Kea ISC), Zabbix monitoring
-- Ansible automation for Arista EOS device configuration *(in progress)*
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
