@@ -82,6 +82,8 @@ interests:
 ### ESI Data Center Redesign 
 > Spine-Leaf Clos fabric · EVPN/VXLAN · eBGP underlay · 5-VRF macro-segmentation
 
+Production-grade datacenter redesign for ESI Algiers — 2 Spines, 10 Leaves, 5 pods, fully simulated in ContainerLab with FRR and automated on Arista EOS via Ansible.
+
 **My contributions:**
 - QoS strategy — 8-class DiffServ, DSCP preservation across VXLAN encapsulation, ECN/PFC scoped to Ultra Compute Pod
 - ContainerLab simulation — NTP (Chrony), DNS (Unbound), DHCP, Zabbix monitoring
