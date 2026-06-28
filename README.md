@@ -79,15 +79,18 @@ interests:
 
 ## PROJECTS
 
-### ESI Data Center Redesign *(team project — private org repo)*
+### ESI Data Center Redesign 
 > Spine-Leaf Clos fabric · EVPN/VXLAN · eBGP underlay · 5-VRF macro-segmentation
 
-- **My role:** QoS strategy (8-class DiffServ, DSCP preservation across VXLAN, ECN/PFC scoped to Ultra Compute Pod)
-- ContainerLab simulation of NTP (Chrony), DNS (BIND9), DHCP (Kea ISC), Zabbix monitoring
-- Ansible automation for Arista EOS device configuration *(in progress)*
+**My contributions:**
+- QoS strategy — 8-class DiffServ, DSCP preservation across VXLAN encapsulation, ECN/PFC scoped to Ultra Compute Pod
+- ContainerLab simulation — NTP (Chrony), DNS (Unbound), DHCP, Zabbix monitoring
+- Ansible automation on Arista EOS across the full fabric
+
+🔗 [squareone-team/datacenter-containerlab-esi](https://github.com/squareone-team/datacenter-containerlab-esi)
 
 ### EsiBot — Autonomous Differential Mobile Robot *(team leader)*
-ROS 2 Jazzy · Gazebo · SLAM Toolbox · Nav2 · Raspberry Pi 4 · ESP32-CAM · React
+> ROS 2 Jazzy · Gazebo · SLAM Toolbox · Nav2 · Raspberry Pi 4 · ESP32-CAM · React
 
 A low-cost autonomous robot built as a TurtleBot3-class alternative using commodity IoT
 components. The platform replaces the TurtleBot3's LiDAR and proprietary microcontroller
