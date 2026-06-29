@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=538BF7&center=true&vCenter=true&width=600&lines=ZITOUNI+RANIA" alt="name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Fullstack+%26+Mobile+Developer+%7C+Systems+%26+Infrastructure" alt="role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&lines=CS+Researcher+%26+Engineer+%7C+ESI+Algiers&lines=Combinatorial+Optimization+%C2%B7+GPU+Computing+%C2%B7+Networks" alt="role" />
 
 <br/><br/>
 
@@ -29,15 +29,16 @@
 
 ```yaml
 name:       Zitouni Rania
-role:       Fullstack & Mobile Developer
-university: ESI Algiers — 4th year CS
+role:       CS Engineer student
+school:     ESI Algiers — Algeria's top CS school
+            Engineer's degree, M.Sc.-level, Year 4 of 5
 location:   Algiers, Algeria 🇩🇿
 part_time:  FoorWeb (e-commerce platform)
-interests:
-  - Full-stack web & mobile development
-  - GPU & parallel computing
+research:
+  - Combinatorial optimization & metaheuristics
+  - RL-guided algorithm selection
+  - GPU & parallel computing (CUDA)
   - Network infrastructure & automation
-  - Combinatorial optimization
 ```
 
 </td>
@@ -52,28 +53,25 @@ interests:
 
 <div align="center">
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,flutter,dart" />
+### 🔬 Optimization, ML & HPC
+`Python` • `CUDA` • `OpenMP` • `MPI` • `Pthreads` • `NumPy` • `Scikit-learn` • `TensorFlow` • `R` • `FactoMineR` • `Pandas` • `NetworkX`
+
+### 🌐 Networking & Infrastructure
+`BGP` • `EVPN/VXLAN` • `ContainerLab` • `FRR` • `Arista EOS` • `Ansible/AWX` • `Cisco IOS`
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,c" />
 
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,flutter,dart" />
+
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
 
-### DevOps & Infrastructure
+### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ansible,postman" />
 
-### Networking & Systems
-`BGP` • `EVPN/VXLAN` • `ContainerLab` • `FRR` • `Arista EOS` • `GNS3` • `Cisco IOS`
-
-### 🔬 Data & HPC
-`CUDA` • `OpenMP` • `MPI` • `Pthreads` • `R` • `FactoMineR` • `Pandas` • `NetworkX`
-
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 ---
 
@@ -124,9 +122,17 @@ React web dashboard accessible from any device on the local Wi-Fi network.
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=fff&animation=twinkling" width="100%" />
+
+</div>
+
+
+
+
 
 </div>
